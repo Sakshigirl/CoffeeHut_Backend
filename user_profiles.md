@@ -1,3 +1,4 @@
 Daily
 Monthly
 Quarterly
+loyal
